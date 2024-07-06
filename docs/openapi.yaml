@@ -10,9 +10,9 @@ info:
 tags:
   - name: Contacts
     description: Contacts operations.
-# servers:
-#   - url: <http://localhost:3000>
-#   - url: <https://contacts-app-4uvt.onrender.com>
+servers:
+  - url: <http://localhost:3000>
+  - url: <https://contacts-app-4uvt.onrender.com>
 paths:
   /contacts:
     get:
